@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Kiran Pokkanayil
 
 <!--
 **kiranmenon/kiranmenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## A little more about me....
+
+```json
+{
+  "name" : "Kiran P",
+  "role" : "Software developer",
+  "skills" : [
+                "C++", "Python", "Java",
+                "Qt", "GObjectC" "RHCE",
+                "Kubernetes", "Ansible", "Ansible operator-sdk",
+                "Oracle Cloud (OCI)", "AWS"
+              ],
+  "to_learn_list": [ "golang", "RUST", "webasm"],
+  "contact": ["targetkiranp@gmail.com"]
+}
+```
+
