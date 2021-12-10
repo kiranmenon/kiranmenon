@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kiran Pokkanayil
+## Hi there 👋, I'm Kiran Pokkanayil
 
 <!--
 **kiranmenon/kiranmenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A little more about me....
+### A little more about me....
 
 ```json
 {
@@ -28,9 +28,10 @@ Here are some ideas to get you started:
                 "Oracle Cloud (OCI)", "AWS"
               ],
   "to_learn_list": [ "golang", "RUST", "webasm"],
-  "contact": ["targetkiranp@gmail.com"],
-  "personal_blog": "https://myquicktechrefs.blogspot.com/",
-  "github_page": "https://kiranmenon.github.io/" 
+  "contact": ["targetkiranp@gmail.com"]
 }
 ```
+
+###  My personal_blog: [https://myquicktechrefs.blogspot.com/](https://myquicktechrefs.blogspot.com/)
+### Github page: [https://kiranmenon.github.io/](https://kiranmenon.github.io/)
 
