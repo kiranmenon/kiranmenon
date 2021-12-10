@@ -28,7 +28,9 @@ Here are some ideas to get you started:
                 "Oracle Cloud (OCI)", "AWS"
               ],
   "to_learn_list": [ "golang", "RUST", "webasm"],
-  "contact": ["targetkiranp@gmail.com"]
+  "contact": ["targetkiranp@gmail.com"],
+  "personal_blog": "https://myquicktechrefs.blogspot.com/",
+  "github_page": "https://kiranmenon.github.io/" 
 }
 ```
 
